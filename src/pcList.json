@@ -1,0 +1,1647 @@
+{
+  "code": 200,
+  "message": "操作成功",
+  "result": {
+    "pcBannerList": [
+      {
+        "id": 3785,
+        "status": 1,
+        "time": "2026-01-13 11:27:23",
+        "labelName": null,
+        "lastupdate": "2026-01-13 11:29:05",
+        "fontColor": null,
+        "backgroundColor": null,
+        "type": 1,
+        "location": "0",
+        "name": "国补0113",
+        "plateId": 0,
+        "plateName": null,
+        "resolution": null,
+        "fileSize": "",
+        "fileFormat": "",
+        "imgUrl": "https://fds.sundan.com/group2/M00/13/07/wKgaQWllu_2AUWFbAAWzBok8wlg614.jpg",
+        "isLinkEnabled": 0,
+        "target": 1,
+        "sort": 300,
+        "jumpId": 0,
+        "jumpName": null,
+        "jumpType": 0,
+        "jumpUrl": "",
+        "startTime": "2026-01-13 11:20:00",
+        "endTime": "2027-01-13 00:00:00",
+        "description": "",
+        "content": "",
+        "click": 0,
+        "parentId": 0,
+        "isDel": 0,
+        "jumpKeyword": "",
+        "source": 1,
+        "pcUrl": "/search?keyword=国补"
+      },
+      {
+        "id": 3855,
+        "status": 1,
+        "time": "2026-02-28 09:10:23",
+        "labelName": null,
+        "lastupdate": "2026-02-28 09:12:16",
+        "fontColor": null,
+        "backgroundColor": null,
+        "type": 1,
+        "location": "0",
+        "name": "三星S26系列",
+        "plateId": 0,
+        "plateName": null,
+        "resolution": null,
+        "fileSize": "0",
+        "fileFormat": "jpg",
+        "imgUrl": "https://fds.sundan.com/group2/M00/15/36/wKgaQWmiQGCAY_M2AASppCg85Wo477.jpg",
+        "isLinkEnabled": 0,
+        "target": 1,
+        "sort": 260,
+        "jumpId": 0,
+        "jumpName": null,
+        "jumpType": 0,
+        "jumpUrl": "",
+        "startTime": "2026-02-28 00:00:00",
+        "endTime": "2027-02-28 00:00:00",
+        "description": "",
+        "content": "",
+        "click": 0,
+        "parentId": 0,
+        "isDel": 0,
+        "jumpKeyword": "",
+        "source": 1,
+        "pcUrl": "/good?id=35090"
+      },
+      {
+        "id": 3851,
+        "status": 1,
+        "time": "2026-02-12 12:02:03",
+        "labelName": null,
+        "lastupdate": "2026-02-12 12:02:03",
+        "fontColor": null,
+        "backgroundColor": null,
+        "type": 1,
+        "location": "0",
+        "name": "热水器0212",
+        "plateId": 0,
+        "plateName": null,
+        "resolution": null,
+        "fileSize": "0",
+        "fileFormat": "jpg",
+        "imgUrl": "https://fds.sundan.com/group2/M00/14/C7/wKgaQWmNUGGAZbZYAAUfryLnaBw456.jpg",
+        "isLinkEnabled": 0,
+        "target": 1,
+        "sort": 236,
+        "jumpId": 0,
+        "jumpName": null,
+        "jumpType": 0,
+        "jumpUrl": "",
+        "startTime": "2026-02-12 10:01:47",
+        "endTime": "2026-03-12 00:00:00",
+        "description": "",
+        "content": "",
+        "click": 0,
+        "parentId": 0,
+        "isDel": 0,
+        "jumpKeyword": "",
+        "source": 1,
+        "pcUrl": "/search?keyword=热水器"
+      },
+      {
+        "id": 3823,
+        "status": 1,
+        "time": "2026-01-25 10:09:55",
+        "labelName": null,
+        "lastupdate": "2026-01-26 17:11:41",
+        "fontColor": null,
+        "backgroundColor": null,
+        "type": 1,
+        "location": "0",
+        "name": "Apple合集新年版-国补",
+        "plateId": 0,
+        "plateName": null,
+        "resolution": null,
+        "fileSize": "0",
+        "fileFormat": "jpg",
+        "imgUrl": "https://fds.sundan.com/group2/M00/13/B1/wKgaQWl1e0OAWgsiAALE1aLokYk645.jpg",
+        "isLinkEnabled": 0,
+        "target": 1,
+        "sort": 234,
+        "jumpId": 0,
+        "jumpName": null,
+        "jumpType": 0,
+        "jumpUrl": "",
+        "startTime": "2026-01-25 10:09:09",
+        "endTime": "2027-01-25 00:00:00",
+        "description": "",
+        "content": "",
+        "click": 0,
+        "parentId": 0,
+        "isDel": 0,
+        "jumpKeyword": "",
+        "source": 1,
+        "pcUrl": "/search?keyword=Apple"
+      },
+      {
+        "id": 3806,
+        "status": 1,
+        "time": "2026-01-20 14:42:34",
+        "labelName": null,
+        "lastupdate": "2026-02-24 10:15:14",
+        "fontColor": null,
+        "backgroundColor": null,
+        "type": 1,
+        "location": "0",
+        "name": "大冰箱0120",
+        "plateId": 0,
+        "plateName": null,
+        "resolution": null,
+        "fileSize": "0",
+        "fileFormat": "jpg",
+        "imgUrl": "https://fds.sundan.com/group2/M00/13/9C/wKgaQWlzDYyAJGZhAAV351CZwNY211.jpg",
+        "isLinkEnabled": 0,
+        "target": 1,
+        "sort": 231,
+        "jumpId": 0,
+        "jumpName": null,
+        "jumpType": 0,
+        "jumpUrl": "",
+        "startTime": "2026-01-19 14:42:20",
+        "endTime": "2027-02-19 00:00:00",
+        "description": "",
+        "content": "",
+        "click": 0,
+        "parentId": 0,
+        "isDel": 0,
+        "jumpKeyword": "",
+        "source": 1,
+        "pcUrl": "/search?keyword=大冰箱"
+      },
+      {
+        "id": 3793,
+        "status": 1,
+        "time": "2026-01-14 18:07:49",
+        "labelName": null,
+        "lastupdate": "2026-01-14 18:15:10",
+        "fontColor": null,
+        "backgroundColor": null,
+        "type": 1,
+        "location": "0",
+        "name": "游戏本",
+        "plateId": 0,
+        "plateName": null,
+        "resolution": null,
+        "fileSize": "",
+        "fileFormat": "",
+        "imgUrl": "https://fds.sundan.com/group2/M00/13/1E/wKgaQWlnbKqAKYEJAArzdlbZWD4035.png",
+        "isLinkEnabled": 0,
+        "target": 1,
+        "sort": 230,
+        "jumpId": 0,
+        "jumpName": null,
+        "jumpType": 0,
+        "jumpUrl": "",
+        "startTime": "2026-01-13 00:00:00",
+        "endTime": "2027-01-14 00:00:00",
+        "description": "",
+        "content": "",
+        "click": 0,
+        "parentId": 0,
+        "isDel": 0,
+        "jumpKeyword": "",
+        "source": 1,
+        "pcUrl": "/search?keyword=游戏本"
+      },
+      {
+        "id": 3791,
+        "status": 1,
+        "time": "2026-01-14 16:44:42",
+        "labelName": null,
+        "lastupdate": "2026-01-16 17:56:52",
+        "fontColor": null,
+        "backgroundColor": null,
+        "type": 1,
+        "location": "0",
+        "name": "KEF0114",
+        "plateId": 0,
+        "plateName": null,
+        "resolution": null,
+        "fileSize": "",
+        "fileFormat": "",
+        "imgUrl": "https://fds.sundan.com/group2/M00/13/39/wKgaQWlqC2GAKH1FAA1l8kJ4CyI662.png",
+        "isLinkEnabled": 0,
+        "target": 1,
+        "sort": 228,
+        "jumpId": 0,
+        "jumpName": null,
+        "jumpType": 0,
+        "jumpUrl": "",
+        "startTime": "2026-01-14 16:39:27",
+        "endTime": "2026-03-14 00:00:00",
+        "description": "",
+        "content": "",
+        "click": 0,
+        "parentId": 0,
+        "isDel": 0,
+        "jumpKeyword": "",
+        "source": 1,
+        "pcUrl": "/search?keyword=KEF"
+      },
+      {
+        "id": 3764,
+        "status": 1,
+        "time": "2026-01-04 18:55:58",
+        "labelName": null,
+        "lastupdate": "2026-01-04 19:09:05",
+        "fontColor": null,
+        "backgroundColor": null,
+        "type": 1,
+        "location": "0",
+        "name": "博朗剃须刀",
+        "plateId": 0,
+        "plateName": null,
+        "resolution": null,
+        "fileSize": "",
+        "fileFormat": "",
+        "imgUrl": "https://fds.sundan.com/group2/M00/12/88/wKgaQWlaSk2ACDi-AAM2bJjujqE610.jpg",
+        "isLinkEnabled": 0,
+        "target": 1,
+        "sort": 201,
+        "jumpId": 0,
+        "jumpName": null,
+        "jumpType": 0,
+        "jumpUrl": "",
+        "startTime": "2026-01-04 00:00:00",
+        "endTime": "2026-06-04 00:00:00",
+        "description": "",
+        "content": "",
+        "click": 0,
+        "parentId": 0,
+        "isDel": 0,
+        "jumpKeyword": "",
+        "source": 1,
+        "pcUrl": "/search?keyword=博朗剃须刀"
+      },
+      {
+        "id": 3728,
+        "status": 1,
+        "time": "2025-12-24 17:25:37",
+        "labelName": null,
+        "lastupdate": "2025-12-24 17:25:37",
+        "fontColor": null,
+        "backgroundColor": null,
+        "type": 1,
+        "location": "0",
+        "name": "红魔11Pro系列",
+        "plateId": 0,
+        "plateName": null,
+        "resolution": null,
+        "fileSize": "0",
+        "fileFormat": "jpg",
+        "imgUrl": "https://fds.sundan.com/group2/M00/11/F3/wKgaQWlLsX2AXkupAAMUHN-X6Dc929.jpg",
+        "isLinkEnabled": 0,
+        "target": 1,
+        "sort": 201,
+        "jumpId": 0,
+        "jumpName": null,
+        "jumpType": 0,
+        "jumpUrl": "",
+        "startTime": "2025-12-24 00:00:00",
+        "endTime": "2026-12-24 00:00:00",
+        "description": "",
+        "content": "",
+        "click": 0,
+        "parentId": 0,
+        "isDel": 0,
+        "jumpKeyword": "",
+        "source": 1,
+        "pcUrl": "/search?keyword=红魔"
+      }
+    ],
+    "views": [
+      {
+        "id": 1,
+        "type": 2,
+        "name": "新品推荐",
+        "sort": 99,
+        "palteTabList": [
+          {
+            "id": 32703,
+            "name": "松下冰洗",
+            "jumpUrl": "/search?keyword=松下冰洗"
+          },
+          {
+            "id": 32704,
+            "name": "bose影音",
+            "jumpUrl": "/search?keyword=bose影音"
+          },
+          {
+            "id": 32705,
+            "name": "卧室空调",
+            "jumpUrl": "/search?keyword=卧室空调"
+          },
+          {
+            "id": 32706,
+            "name": "苹果手机",
+            "jumpUrl": "/search?keyword=苹果手机"
+          },
+          {
+            "id": 32707,
+            "name": "运动相机",
+            "jumpUrl": "/search?keyword=运动相机"
+          },
+          {
+            "id": 32708,
+            "name": "查看更多\u003E",
+            "jumpUrl": "/new"
+          }
+        ],
+        "platePicList": [],
+        "wheelSeedingList": [],
+        "goodsList": [
+          {
+            "id": 42812,
+            "goodsName": "【顺电TOP10】产地马来西亚 进口戴森（Dyson）精准造型吹风机HD17（晶耀紫）",
+            "imgUrl": "https://fds.sundan.com/group2/M00/13/0D/wKgaQWll_CWAZoSSAAKmQeZcBRA491.jpg",
+            "price": 3799,
+            "bn": "169815",
+            "goodsId": 32782,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:07",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "169815",
+                "beginDate": 1772351227785,
+                "flowId": 125802185,
+                "endDate": 1772351227786,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 1
+          },
+          {
+            "id": 43095,
+            "goodsName": "【现货】任天堂（Nintendo）Switch二代游戏机NS2掌上主机 单机标准版不含游戏（港版）黑色",
+            "imgUrl": "https://fds.sundan.com/group2/M00/08/97/wKgaQWhiKHmAbveQAADJIC-sz-8286.jpg",
+            "price": 4159,
+            "bn": "319905",
+            "goodsId": 32971,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:07",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "319905",
+                "beginDate": 1772351227791,
+                "flowId": 125803729,
+                "endDate": 1772351227791,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 0
+          },
+          {
+            "id": 44629,
+            "goodsName": "【收货现场拆封激活】Apple iPhone 17 (A3521) 全网通5G手机【同城发货，无货退款】",
+            "imgUrl": "https://fds.sundan.com/group2/M00/15/0F/wKgaQWmdZjaAD-hRAALf0QgD-Y8623.png",
+            "price": 5999,
+            "bn": "170979",
+            "goodsId": 33845,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:07",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "170979",
+                "beginDate": 1772351227793,
+                "flowId": 125804694,
+                "endDate": 1772351227793,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 1
+          },
+          {
+            "id": 42628,
+            "goodsName": "索尼（SONY）98英寸MINI LED电视K-98XR50 (黑色)【全国包邮】",
+            "imgUrl": "https://fds.sundan.com/group2/M00/06/E4/wKgaQWgz0ZqASWJHAAUBVJsfdRU284.jpg",
+            "price": 23999,
+            "bn": "169556",
+            "goodsId": 32670,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:46:43",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601282097",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "169556",
+                "beginDate": 1772351203386,
+                "flowId": 126382145,
+                "endDate": 1772351203386,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 1
+          },
+          {
+            "id": 47247,
+            "goodsName": "【订金500元预约】三星（Samsung）S26系列 经典手机(下单备注内存+运存+颜色)-仅支持到店自提并激活",
+            "imgUrl": "https://fds.sundan.com/group2/M00/15/35/wKgaQWmhbvqAA1_LAAV82u8GsT8609.jpg",
+            "price": 500,
+            "bn": "317083H",
+            "goodsId": 35090,
+            "pmList": [],
+            "labelList": [],
+            "isNew": 1
+          },
+          {
+            "id": 42602,
+            "goodsName": "【补贴下单立减】碧云泉（bewinch）煮茶净饮机jst-t5s（暗夜银）",
+            "imgUrl": "https://obs-gd-sundan.obs.cn-south-1.myhuaweicloud.com/sundan/prod/b2b/usr/local/newb2b/good/51908/93ffb8cbd5a34ae1ad13b34e8f5c2ee2/正面.jpg",
+            "price": 4379,
+            "bn": "169641",
+            "goodsId": 32655,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:07",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "169641",
+                "beginDate": 1772351227803,
+                "flowId": 125801799,
+                "endDate": 1772351227803,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 1
+          },
+          {
+            "id": 46066,
+            "goodsName": "松下（Panasonic）挪威海 700L 自动制冰五门法式多门冰箱NR-W711MG-H (陨石灰)",
+            "imgUrl": "https://fds.sundan.com/group2/M00/11/56/wKgaQWk7k6aAdt8ZAADcp74DgVg810.jpg",
+            "price": 22990,
+            "bn": "172015",
+            "goodsId": 34563,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:07",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "172015",
+                "beginDate": 1772351227807,
+                "flowId": 125802571,
+                "endDate": 1772351227807,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 1
+          },
+          {
+            "id": 30109,
+            "goodsName": "佳能（Canon）EOS R50 Vlog拍摄4K视频 微单相机（18-45）套机",
+            "imgUrl": "https://fds.sundan.com/group1/M00/0C/D0/wKgaQWTmsrCAJuPvAAEfM4I3Ug0052.jpg",
+            "price": 5999,
+            "bn": "161910",
+            "goodsId": 25423,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:07",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "161910",
+                "beginDate": 1772351227810,
+                "flowId": 125803922,
+                "endDate": 1772351227810,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [
+              {
+                "labelName": "4K视频",
+                "type": 0,
+                "id": 94725
+              },
+              {
+                "labelName": "美颜相机",
+                "type": 0,
+                "id": 94726
+              }
+            ],
+            "isNew": 0
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "type": 1,
+        "name": "热销榜单",
+        "sort": 98,
+        "palteTabList": [
+          {
+            "id": 32709,
+            "name": "手机",
+            "jumpUrl": "/search?keyword=手机"
+          },
+          {
+            "id": 32710,
+            "name": "笔记本",
+            "jumpUrl": "/search?keyword=笔记本"
+          },
+          {
+            "id": 32711,
+            "name": "空调",
+            "jumpUrl": "/search?keyword=空调"
+          },
+          {
+            "id": 32712,
+            "name": "风扇",
+            "jumpUrl": "/search?keyword=风扇"
+          },
+          {
+            "id": 32713,
+            "name": "游戏机",
+            "jumpUrl": "/search?keyword=游戏机"
+          },
+          {
+            "id": 32714,
+            "name": "打印机",
+            "jumpUrl": "/search?keyword=打印机"
+          },
+          {
+            "id": 32715,
+            "name": "电视",
+            "jumpUrl": "/search?keyword=电视"
+          },
+          {
+            "id": 32716,
+            "name": "耳机",
+            "jumpUrl": "/search?keyword=耳机"
+          }
+        ],
+        "platePicList": [],
+        "wheelSeedingList": [
+          {
+            "id": 32101,
+            "imgUrl": "https://fds.sundan.com/group2/M00/14/6D/wKgaQWmEYWuAaNxjAAEwa19bZv4424.jpg",
+            "jumpUrl": "/search?keyword=Macbook"
+          },
+          {
+            "id": 32102,
+            "imgUrl": "https://fds.sundan.com/group2/M00/14/31/wKgaQWmAVAKAO_N5AAHpepSwEdI828.jpg",
+            "jumpUrl": "/good?id=30981"
+          },
+          {
+            "id": 32103,
+            "imgUrl": "https://fds.sundan.com/group2/M00/14/31/wKgaQWmAUuaAPi-0AAJfVQ5TiTw471.jpg",
+            "jumpUrl": "/good?id=32577"
+          },
+          {
+            "id": 32104,
+            "imgUrl": "https://fds.sundan.com/group1/M00/17/B5/wKgaQWa0ftKAOU4DAAGSOYrzaPI132.jpg",
+            "jumpUrl": "/search?keyword=美食篇"
+          },
+          {
+            "id": 32105,
+            "imgUrl": "https://fds.sundan.com/group2/M00/14/31/wKgaQWmAV4mAMkgiAAL_O2GI0Z0378.jpg",
+            "jumpUrl": "/search?keyword=羊"
+          },
+          {
+            "id": 32106,
+            "imgUrl": "https://fds.sundan.com/group2/M00/10/E0/wKgaQWkunNCAPwzaAANwJNjwx1A952.jpg",
+            "jumpUrl": "/search?keyword=A9 5th"
+          },
+          {
+            "id": 32107,
+            "imgUrl": "https://fds.sundan.com/group2/M00/10/E1/wKgaQWkunriAHMxWAAF2BPxfIX0501.jpg",
+            "jumpUrl": "/search?keyword=绿联"
+          }
+        ],
+        "goodsList": [
+          {
+            "id": 45786,
+            "goodsName": "【收货现场拆封激活】华为（HUAWEI） Mate 80 商务手机VYG-AL00【无货退款】",
+            "imgUrl": "https://fds.sundan.com/group2/M00/10/9C/wKgaQWkpWC2AOoP3AAWcwTg9lNY098.png",
+            "price": 4699,
+            "bn": "171815",
+            "goodsId": 34415,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:07",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "171815",
+                "beginDate": 1772351227863,
+                "flowId": 125803150,
+                "endDate": 1772351227863,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 1
+          },
+          {
+            "id": 46734,
+            "goodsName": "华硕（ASUS）灵耀14 Air 14英寸笔记本（Ultra7-258V 32GB 1TB）UX5406SA258（山岚灰）",
+            "imgUrl": "https://obs-gd-sundan.obs.cn-south-1.myhuaweicloud.com/sundan/prod/b2b/usr/local/newb2b/good/50211/6af9bfe315b24d82b6297f5c07fbf359/121221(1).jpg",
+            "price": 8999,
+            "bn": "172295",
+            "goodsId": 34849,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:07",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "172295",
+                "beginDate": 1772351227869,
+                "flowId": 125803729,
+                "endDate": 1772351227869,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 1
+          },
+          {
+            "id": 46186,
+            "goodsName": "【预订】佳能（Canon）EOS R6 MarK Ⅲ 全画幅微单相机 24-105mm F4 L IS USM套机（黑色）【无货退款】",
+            "imgUrl": "https://fds.sundan.com/group2/M00/11/AD/wKgaQWlFCY6AXVt1AAXkYkt0nyI138.jpg",
+            "price": 25199,
+            "bn": "171929",
+            "goodsId": 34639,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:07",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "171929",
+                "beginDate": 1772351227874,
+                "flowId": 125803922,
+                "endDate": 1772351227874,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 1
+          },
+          {
+            "id": 46644,
+            "goodsName": "Apple MacBook Air13.6英寸笔记本（M4芯片）【2025年款】",
+            "imgUrl": "https://fds.sundan.com/group2/M00/14/27/wKgaQWmAIz6ALLQSAAMl_Wp1pSE970.jpg",
+            "price": 6899,
+            "bn": "168771",
+            "goodsId": 31981,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:07",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "168771",
+                "beginDate": 1772351227875,
+                "flowId": 125804694,
+                "endDate": 1772351227875,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 1
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "type": 3,
+        "name": "必买好物",
+        "sort": 97,
+        "palteTabList": [
+          {
+            "id": 32717,
+            "name": "5G手机",
+            "jumpUrl": "/search?keyword=5G手机"
+          },
+          {
+            "id": 32718,
+            "name": "蓝牙耳机",
+            "jumpUrl": "/search?keyword=蓝牙耳机"
+          },
+          {
+            "id": 32719,
+            "name": "咖啡机",
+            "jumpUrl": "/search?keyword=咖啡机"
+          },
+          {
+            "id": 32720,
+            "name": "拍立得",
+            "jumpUrl": "/search?keyword=拍立得"
+          },
+          {
+            "id": 32721,
+            "name": "摄影相机",
+            "jumpUrl": "/search?keyword=相机"
+          }
+        ],
+        "platePicList": [
+          {
+            "id": 32108,
+            "imgUrl": "https://fds.sundan.com/group2/M00/07/92/wKgaQWhHv-uAMFn-AABsBE5CP8I967.jpg",
+            "jumpUrl": "/search?keyword=拖地机"
+          },
+          {
+            "id": 32109,
+            "imgUrl": "https://fds.sundan.com/group2/M00/14/2F/wKgaQWmATKOAGitQAAD8ZeWwH-w724.jpg",
+            "jumpUrl": "/search?keyword=西门子"
+          },
+          {
+            "id": 32110,
+            "imgUrl": "https://fds.sundan.com/group2/M00/00/2C/wKgaQWcZ_wmAYBHeAAA952ZJMqI546.jpg",
+            "jumpUrl": "/search?keyword=运动手表"
+          },
+          {
+            "id": 32111,
+            "imgUrl": "https://fds.sundan.com/group2/M00/14/30/wKgaQWmATVCAAjxWAABgcH4zeyg108.jpg",
+            "jumpUrl": "/search?keyword=开放式"
+          },
+          {
+            "id": 32112,
+            "imgUrl": "https://fds.sundan.com/group2/M00/14/30/wKgaQWmAUXCAPoS0AAE0DUnCjww193.jpg",
+            "jumpUrl": "/search?keyword=华硕"
+          },
+          {
+            "id": 32113,
+            "imgUrl": "https://fds.sundan.com/group1/M00/0F/28/wKgaQWVVrCeAdI5zAADVnNEwRqw959.jpg",
+            "jumpUrl": "/search?catId=46"
+          },
+          {
+            "id": 32114,
+            "imgUrl": "https://fds.sundan.com/group2/M00/14/30/wKgaQWmAT2GAWOKnAACviREpA4M577.jpg",
+            "jumpUrl": "/search?keyword=垃圾处理器"
+          }
+        ],
+        "wheelSeedingList": [],
+        "goodsList": []
+      },
+      {
+        "id": 5,
+        "type": 4,
+        "name": "潮人数码",
+        "sort": 96,
+        "palteTabList": [
+          {
+            "id": 32722,
+            "name": "手机",
+            "jumpUrl": "/search?keyword=手机"
+          },
+          {
+            "id": 32723,
+            "name": "电脑",
+            "jumpUrl": "search?keyword=电脑"
+          },
+          {
+            "id": 32724,
+            "name": "平板",
+            "jumpUrl": "/search?keyword=平板"
+          },
+          {
+            "id": 32725,
+            "name": "微单相机",
+            "jumpUrl": "/search?keyword=微单相机"
+          },
+          {
+            "id": 32726,
+            "name": "音箱",
+            "jumpUrl": "/search?keyword=音箱"
+          },
+          {
+            "id": 32727,
+            "name": "无人机",
+            "jumpUrl": "/search?keyword=无人机"
+          }
+        ],
+        "platePicList": [
+          {
+            "id": 32119,
+            "imgUrl": "https://fds.sundan.com/group2/M00/14/5A/wKgaQWmDFuuAWus_AADASBP21tQ617.jpg",
+            "jumpUrl": "/search?keyword=运动相机"
+          },
+          {
+            "id": 32120,
+            "imgUrl": "https://fds.sundan.com/group2/M00/0B/82/wKgaQWixTS-AA4HjAACAy1f3BIc739.jpg",
+            "jumpUrl": "/search?keyword=手机"
+          }
+        ],
+        "wheelSeedingList": [
+          {
+            "id": 32115,
+            "imgUrl": "https://fds.sundan.com/group2/M00/14/32/wKgaQWmAXq-ABmIbAAIbP7vY4OI163.jpg",
+            "jumpUrl": "/search?catId=38"
+          },
+          {
+            "id": 32116,
+            "imgUrl": "https://fds.sundan.com/group2/M00/0D/6B/wKgaQWjl3MSAFoMEAAGIQX1rt6U933.jpg",
+            "jumpUrl": "/search?keyword=mini 5 pro"
+          },
+          {
+            "id": 32117,
+            "imgUrl": "https://fds.sundan.com/group2/M00/14/6C/wKgaQWmEWQCAQ6blAAEfZfnl7co255.jpg",
+            "jumpUrl": "/search?keyword=Apple Watch"
+          },
+          {
+            "id": 32118,
+            "imgUrl": "https://fds.sundan.com/group2/M00/14/32/wKgaQWmAXFmAYRg1AAN2N5xSRSY171.jpg",
+            "jumpUrl": "/search?keyword=小天才"
+          }
+        ],
+        "goodsList": [
+          {
+            "id": 45373,
+            "goodsName": "【特价】高驰（COROS）NOMAD户外探索智能手表【不支持积分补差，无货退款】",
+            "imgUrl": "https://obs-gd-sundan.obs.cn-south-1.myhuaweicloud.com/sundan/prod/b2b/usr/local/newb2b/good/52199/81e75c97b6d1419eb5d02d3ccea49d8d/未标题-深灰色3.png",
+            "price": 2499,
+            "bn": "171521",
+            "goodsId": 34221,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:07",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "171521",
+                "beginDate": 1772351227975,
+                "flowId": 125805659,
+                "endDate": 1772351227975,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              },
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:07",
+                "specialType": "0",
+                "sheetNo": "PB2602096914",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "171521",
+                "beginDate": 1772351227975,
+                "flowId": 126942945,
+                "endDate": 1772351227975,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "折扣",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 1
+          },
+          {
+            "id": 44982,
+            "goodsName": "Bose 开放式耳机OpenEarbuds Ultra(浮木沙灰)",
+            "imgUrl": "https://fds.sundan.com/group2/M00/0D/CA/wKgaQWjxs7WASOKiAAGOHJyEhgY256.jpg",
+            "price": 1699,
+            "bn": "171284",
+            "goodsId": 34044,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:07",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "171284",
+                "beginDate": 1772351227978,
+                "flowId": 125804115,
+                "endDate": 1772351227978,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 1
+          },
+          {
+            "id": 37441,
+            "goodsName": "影石（Insta360）GO 3S Vlog骑行防抖 拇指防抖运动相机 64G（黑色）",
+            "imgUrl": "https://fds.sundan.com/group1/M00/16/1B/wKgaQWZzioOAfljfAAProH9Fsxs902.png",
+            "price": 1698,
+            "bn": "166118",
+            "goodsId": 29592,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:07",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "166118",
+                "beginDate": 1772351227982,
+                "flowId": 125805273,
+                "endDate": 1772351227982,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 0
+          },
+          {
+            "id": 46702,
+            "goodsName": "【收货现场拆封激活】Apple Watch S11 GPS版智能手表-运动型表带【无货退款】",
+            "imgUrl": "https://fds.sundan.com/group2/M00/13/B3/wKgaQWl1hdiAVOoMAAIY6xqUg58867.jpg",
+            "price": 2499,
+            "bn": "170953",
+            "goodsId": 34842,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:07",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "170953",
+                "beginDate": 1772351227983,
+                "flowId": 125804694,
+                "endDate": 1772351227983,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 1
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "type": 4,
+        "name": "生活美家",
+        "sort": 95,
+        "palteTabList": [
+          {
+            "id": 32728,
+            "name": "空调",
+            "jumpUrl": "/search?keyword=空调"
+          },
+          {
+            "id": 32729,
+            "name": "电视",
+            "jumpUrl": "/search?keyword=电视"
+          },
+          {
+            "id": 32730,
+            "name": "家庭影院",
+            "jumpUrl": "/search?catId=16"
+          },
+          {
+            "id": 32731,
+            "name": "投影仪",
+            "jumpUrl": "/search?catId=176"
+          },
+          {
+            "id": 32732,
+            "name": "蒸烤箱",
+            "jumpUrl": "/search?catId=90"
+          }
+        ],
+        "platePicList": [
+          {
+            "id": 32123,
+            "imgUrl": "https://fds.sundan.com/group2/M00/0D/6D/wKgaQWjl83uACkP2AABfeygtQ5E331.jpg",
+            "jumpUrl": "/search?keyword=新风空调"
+          },
+          {
+            "id": 32124,
+            "imgUrl": "https://fds.sundan.com/group2/M00/0D/6D/wKgaQWjl9KqAHMBVAAB0ZtWJPSI978.jpg",
+            "jumpUrl": "/search?keyword=洗烘护"
+          }
+        ],
+        "wheelSeedingList": [
+          {
+            "id": 32121,
+            "imgUrl": "https://fds.sundan.com/group2/M00/0D/6B/wKgaQWjl4JaATzikAALkTYUfeKI208.jpg",
+            "jumpUrl": "/search?keyword=z700qf"
+          },
+          {
+            "id": 32122,
+            "imgUrl": "https://fds.sundan.com/group2/M00/11/B8/wKgaQWlGZDSAWf-6AAJVTL6wm0s686.png",
+            "jumpUrl": "/search?keyword=东芝冰箱"
+          }
+        ],
+        "goodsList": [
+          {
+            "id": 44387,
+            "goodsName": "西门子（SIEMENS） X7双吸油烟机 LS63V8MR9W  (玫瑰金)",
+            "imgUrl": "https://obs-gd-sundan.obs.cn-south-1.myhuaweicloud.com/sundan/prod/b2b/usr/local/newb2b/good/6446/04d80c2d70b048cfb521bc87fb350a4b/X7玫瑰金--正面.jpg",
+            "price": 7491,
+            "bn": "170845",
+            "goodsId": 33725,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:08",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "170845",
+                "beginDate": 1772351228036,
+                "flowId": 125802764,
+                "endDate": 1772351228036,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 1
+          },
+          {
+            "id": 42950,
+            "goodsName": "老板（ROBAM） 73L蒸烤炸焗一体机 ZKQS-65-C92-U2M (松露盐色)",
+            "imgUrl": "https://obs-gd-sundan.obs.cn-south-1.myhuaweicloud.com/sundan/prod/b2b/usr/local/newb2b/good/51883/fe0722e671144053848dc99cb4668ddd/1.jpg",
+            "price": 10880,
+            "bn": "169873",
+            "goodsId": 32865,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:08",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "169873",
+                "beginDate": 1772351228043,
+                "flowId": 125802764,
+                "endDate": 1772351228043,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              },
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:08",
+                "specialType": "2",
+                "sheetNo": "PD2602103661",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "169873",
+                "beginDate": 1772351228043,
+                "flowId": 999999999,
+                "endDate": 1772351228043,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "套装",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 1
+          },
+          {
+            "id": 41797,
+            "goodsName": "大金（DAIKIN）衡境系列1匹 1级能效变频冷暖分体式空调FTXE126ZC-W1 (2白色)WIFI版【赠延保316216】",
+            "imgUrl": "https://obs-gd-sundan.obs.cn-south-1.myhuaweicloud.com/sundan/prod/b2b/usr/local/newb2b/good/5238/1d4625037c8e420da48adbecd78d8c81/无题会话34951-已增强-NR_副本.png",
+            "price": 5999,
+            "bn": "169001",
+            "goodsId": 32121,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:08",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "169001",
+                "beginDate": 1772351228048,
+                "flowId": 125802378,
+                "endDate": 1772351228048,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 1
+          },
+          {
+            "id": 47051,
+            "goodsName": "西门子（SIEMENS） 超氧智能502升平嵌十字门冰箱KC89BVA58C (耀岩黑)",
+            "imgUrl": "https://obs-gd-sundan.obs.cn-south-1.myhuaweicloud.com/sundan/prod/b2b/usr/local/newb2b/good/5011/7c17a187930c4ec7bc0f960616a673d1/KC89BVA58C--正面.jpg",
+            "price": 9990,
+            "bn": "172478",
+            "goodsId": 35017,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:08",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "172478",
+                "beginDate": 1772351228053,
+                "flowId": 125802571,
+                "endDate": 1772351228053,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 1
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "type": 4,
+        "name": "一日三餐",
+        "sort": 94,
+        "palteTabList": [
+          {
+            "id": 32733,
+            "name": "电饭煲",
+            "jumpUrl": "/search?keyword=电饭煲"
+          },
+          {
+            "id": 32734,
+            "name": "空气炸锅",
+            "jumpUrl": "/search?keyword=空气炸锅"
+          },
+          {
+            "id": 32735,
+            "name": "破壁机",
+            "jumpUrl": "search?keyword=破壁机"
+          },
+          {
+            "id": 32736,
+            "name": "熟水机",
+            "jumpUrl": "search?keyword=熟水机"
+          },
+          {
+            "id": 32737,
+            "name": "蒸烤箱",
+            "jumpUrl": "/search?catId=90"
+          },
+          {
+            "id": 32738,
+            "name": "消毒柜",
+            "jumpUrl": "/search?catId=64"
+          }
+        ],
+        "platePicList": [
+          {
+            "id": 32128,
+            "imgUrl": "https://fds.sundan.com/group1/M00/0E/69/wKgaQWU2FZSAS4v9AAEona3L438268.png",
+            "jumpUrl": "search?keyword=破壁机"
+          },
+          {
+            "id": 32129,
+            "imgUrl": "https://fds.sundan.com/group2/M00/0E/FF/wKgaQWkDIYSAOf_BAACSR3AUwTU060.jpg",
+            "jumpUrl": "search?keyword=电火锅"
+          }
+        ],
+        "wheelSeedingList": [
+          {
+            "id": 32125,
+            "imgUrl": "https://fds.sundan.com/group1/M00/18/05/wKgaQWa9yV6AGEPOAAKrsqzv8EM023.jpg",
+            "jumpUrl": "search?keyword=松下美食"
+          },
+          {
+            "id": 32126,
+            "imgUrl": "https://fds.sundan.com/group1/M00/0E/69/wKgaQWU2FWqAEK-FAALwX-fOxvA003.jpg",
+            "jumpUrl": "search?keyword=德龙咖啡机"
+          },
+          {
+            "id": 32127,
+            "imgUrl": "https://fds.sundan.com/group1/M00/0F/88/wKgaQWVn9H-AGh-RAAM3Nq2B4lk051.jpg",
+            "jumpUrl": "search?keyword=苏泊尔"
+          }
+        ],
+        "goodsList": [
+          {
+            "id": 30092,
+            "goodsName": "【补贴下单立减】产地日本 进口东芝（TOSHIBA）5L家用IH电饭煲RC-18RMC（白色）",
+            "imgUrl": "https://fds.sundan.com/group2/M00/0F/D9/wKgaQWkZgaKATehiAACNdtXrHPs568.jpg",
+            "price": 3299,
+            "bn": "161805",
+            "goodsId": 25412,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:08",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "161805",
+                "beginDate": 1772351228104,
+                "flowId": 125801799,
+                "endDate": 1772351228104,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [
+              {
+                "labelName": "IH加热",
+                "type": 0,
+                "id": 95094
+              },
+              {
+                "labelName": "24H预约",
+                "type": 0,
+                "id": 95095
+              }
+            ],
+            "isNew": 0
+          },
+          {
+            "id": 38554,
+            "goodsName": "【补贴下单立减】WMF 1.0L玻璃电热水壶3200001876（不锈钢）",
+            "imgUrl": "https://obs-gd-sundan.obs.cn-south-1.myhuaweicloud.com/sundan/prod/b2b/usr/local/newb2b/good/52073/a6165aae462745d3b842dd5a8205f97f/主图-1.jpg",
+            "price": 459,
+            "bn": "166851",
+            "goodsId": 30243,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:08",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "166851",
+                "beginDate": 1772351228110,
+                "flowId": 125801799,
+                "endDate": 1772351228110,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 1
+          },
+          {
+            "id": 39326,
+            "goodsName": "【补贴下单立减】北鼎（BUYDEEM）多功能4L空气炸锅F51/002（小鹅黄）",
+            "imgUrl": "https://fds.sundan.com/group1/M00/1A/39/wKgaQWbzxRqAMqC_AAGrXC-WqXs668.jpg",
+            "price": 969,
+            "bn": "167424",
+            "goodsId": 30723,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:08",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "167424",
+                "beginDate": 1772351228115,
+                "flowId": 125801799,
+                "endDate": 1772351228115,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 1
+          },
+          {
+            "id": 37482,
+            "goodsName": "松下（Panasonic）31L微蒸烤一体机NN-CS3000XPE（黑）",
+            "imgUrl": "https://obs-gd-sundan.obs.cn-south-1.myhuaweicloud.com/sundan/prod/b2b/usr/local/newb2b/good/e28aff97add340c2adb843dec6f13266/正.jpg",
+            "price": 8999,
+            "bn": "166164",
+            "goodsId": 29622,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:08",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "166164",
+                "beginDate": 1772351228120,
+                "flowId": 125801799,
+                "endDate": 1772351228120,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 1
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "type": 4,
+        "name": "春夏秋冬",
+        "sort": 93,
+        "palteTabList": [
+          {
+            "id": 32739,
+            "name": "乔山跑步机",
+            "jumpUrl": "/search?keyword=乔山跑步机"
+          },
+          {
+            "id": 32740,
+            "name": "添可洗拖一体机",
+            "jumpUrl": "/search?keyword=添可"
+          },
+          {
+            "id": 32741,
+            "name": "电动牙刷",
+            "jumpUrl": "/search?keyword=电动牙刷"
+          },
+          {
+            "id": 32742,
+            "name": "电吹风",
+            "jumpUrl": "/search?keyword=电吹风"
+          }
+        ],
+        "platePicList": [
+          {
+            "id": 32133,
+            "imgUrl": "https://fds.sundan.com/group1/M00/0E/69/wKgaQWU2FhKAC7opAACEeMUQ0j8604.jpg",
+            "jumpUrl": "/search?keyword=剃须刀"
+          },
+          {
+            "id": 32134,
+            "imgUrl": "https://fds.sundan.com/group1/M00/0E/69/wKgaQWU2FhyAY0jRAACiftI4ek0824.jpg",
+            "jumpUrl": "/search?keyword=跑步机"
+          }
+        ],
+        "wheelSeedingList": [
+          {
+            "id": 32130,
+            "imgUrl": "https://fds.sundan.com/group2/M00/08/FA/wKgaQWhsmj-AEi0kAAIzbtEsHL8563.jpg",
+            "jumpUrl": "search?keyword=飞利浦牙刷"
+          },
+          {
+            "id": 32131,
+            "imgUrl": "https://fds.sundan.com/group1/M00/0E/69/wKgaQWU2Fc6AMuSJAAMMdNxNryI454.jpg",
+            "jumpUrl": "search?keyword=平衡车"
+          },
+          {
+            "id": 32132,
+            "imgUrl": "https://fds.sundan.com/group2/M00/0B/B6/wKgaQWi2XU2Abr40AAGJVbFX6P4462.jpg",
+            "jumpUrl": "search?keyword=博朗剃须刀"
+          }
+        ],
+        "goodsList": [
+          {
+            "id": 43371,
+            "goodsName": "产地日本 进口富士（FUJIIRYOKI）按摩椅JP-4000",
+            "imgUrl": "https://fds.sundan.com/group2/M00/0F/43/wKgaQWkJbbyAcneMAANNOFfbfMw657.jpg",
+            "price": 42599,
+            "bn": "170292",
+            "goodsId": 33162,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:08",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "170292",
+                "beginDate": 1772351228173,
+                "flowId": 125801606,
+                "endDate": 1772351228173,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 0
+          },
+          {
+            "id": 42364,
+            "goodsName": "【顺电TOP10】徕芬（laifen）套装版护发吹风机Swift 4（星光色）",
+            "imgUrl": "https://fds.sundan.com/group2/M00/13/0D/wKgaQWlmAF2AQt2dAAKfXbTpB7w084.jpg",
+            "price": 629,
+            "bn": "169493",
+            "goodsId": 32515,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:08",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "169493",
+                "beginDate": 1772351228178,
+                "flowId": 125802185,
+                "endDate": 1772351228178,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 1
+          },
+          {
+            "id": 43624,
+            "goodsName": "【顺电TOP10】戴森（Dyson）无绳吸尘器 V8 Cyclone （军绿色）",
+            "imgUrl": "https://fds.sundan.com/group2/M00/13/06/wKgaQWllte2AcNG3AAKLQyOVPHI546.jpg",
+            "price": 2549,
+            "bn": "170438",
+            "goodsId": 33290,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:08",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "170438",
+                "beginDate": 1772351228184,
+                "flowId": 125802185,
+                "endDate": 1772351228184,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [],
+            "isNew": 1
+          },
+          {
+            "id": 23870,
+            "goodsName": "戴森（Dyson）空气净化循环风扇 TP09（黑金色）【少量库存，无货退款】",
+            "imgUrl": "https://fds.sundan.com/public/images/ca/5b/67/006b6243dd6446cb9f7a7a487753915a369a6403.jpg",
+            "price": 5299,
+            "bn": "305197",
+            "goodsId": 21573,
+            "pmList": [
+              {
+                "status": 0,
+                "lastupdate": "2026-03-01 15:47:08",
+                "specialType": "7",
+                "flag3": "0",
+                "sheetNo": "PI2601152094",
+                "branchNo": "2440",
+                "locationNo": "A1",
+                "itemNo": "305197",
+                "beginDate": 1772351228189,
+                "flowId": 125802185,
+                "endDate": 1772351228189,
+                "endTime": "235959",
+                "beginTime": "000000",
+                "pmTag": "优惠券",
+                "loopFlag": false
+              }
+            ],
+            "labelList": [
+              {
+                "labelName": "精准监测",
+                "type": 0,
+                "id": 95134
+              },
+              {
+                "labelName": "净化凉风",
+                "type": 0,
+                "id": 95135
+              }
+            ],
+            "isNew": 0
+          }
+        ]
+      }
+    ]
+  }
+}
