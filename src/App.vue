@@ -3,6 +3,7 @@
     <router-view />
   </div>
 </template>
+//nnnnnnn
 
 <script setup>
 // 路由视图会自动渲染对应组件
