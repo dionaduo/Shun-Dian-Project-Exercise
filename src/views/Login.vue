@@ -1,5 +1,7 @@
 <template>
+  //头部组件
   <Header/>
+  //登录主体部分
   <div class="login-container">
     <div class="login-box">
       <h2 class="login-title">用户登录</h2>
